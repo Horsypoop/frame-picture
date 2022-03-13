@@ -1,0 +1,14 @@
+body{
+background-color: violet;
+Color:black;
+}
+#title{
+    background-color:goldenrod;
+    width: auto;
+    height:50px;
+    font-size: 50px;
+    border-radius: 15px;
+}
+canvas {
+    border:2px solid black;
+}
